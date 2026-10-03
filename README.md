@@ -125,7 +125,7 @@ The Power BI dashboard provides an interactive view of vehicle sales performance
 - Mileage vs selling price analysis
 - Trend analysis
 
-![Vehicle Sales Dashboard](screenshots/dashboard.png)
+![Vehicle Sales Dashboard](screenshots/Dashboard.png)
 
 ## 💡 Business Insights
 
