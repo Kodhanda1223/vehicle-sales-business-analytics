@@ -52,10 +52,11 @@ vehicle-sales-business-analytics/
 ├── LICENSE
 ├── README.md
 └── requirements.txt
+```
 
+## 🔄 Project Workflow
 
-🔄 Project Workflow
-
+```text
 Raw Dataset
      ↓
 Data Cleaning
@@ -71,8 +72,10 @@ Python Analysis
 Power BI Dashboard
      ↓
 Business Insights
+```
 
-📈 Key Analysis Areas
+## 📈 Key Analysis Areas
+
 Sales Performance
 Total vehicles sold
 Total sales revenue
@@ -169,9 +172,6 @@ Pricing analysis
 Mileage analysis
 Business insight generation
 📊 Key KPIs
-
-The Power BI dashboard tracks:
-
 KPI	Description
 Total Vehicles	Total number of vehicle records
 Total Sales	Total selling price revenue
@@ -196,14 +196,14 @@ This project demonstrates an end-to-end analytics workflow starting from raw veh
 
 The project was developed to demonstrate practical skills relevant to Data Analyst and Business Analyst roles.
 
-👤 Author
+## 👤 Author
 
-Kelli Kodhanda Rao
+**Kelli Kodhanda Rao**
 
 B.Tech – Computer Science Engineering
 
-Connect with me
+### Connect with me
 
-LinkedIn
+🔗 [LinkedIn](https://www.linkedin.com/in/kodhanda-rao-kelli-214999289/)
 
-GitHub
+💻 [GitHub](https://github.com/Kodhanda1223)
