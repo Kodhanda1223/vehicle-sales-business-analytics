@@ -76,125 +76,147 @@ Business Insights
 
 ## 📈 Key Analysis Areas
 
-Sales Performance
-Total vehicles sold
-Total sales revenue
-Average selling price
-Average market value
-Average vehicle mileage
-Brand Analysis
-Top vehicle brands by sales volume
-Brand-level sales performance
-Popular vehicle models
-Regional Analysis
-Sales revenue by state
-Vehicle sales volume by state
-Pricing Analysis
-Selling price vs market value
-Vehicle sales by price range
-Price differences and pricing patterns
-Vehicle Analysis
-Mileage categories
-Vehicle age
-Vehicle condition
-Transmission
-Body type
-📊 Power BI Dashboard
+### Sales Performance
+
+- Total vehicles sold
+- Total sales revenue
+- Average selling price
+- Average market value
+- Average vehicle mileage
+
+### Brand Analysis
+
+- Top vehicle brands by sales volume
+- Brand-level sales performance
+- Popular vehicle models
+
+### Regional Analysis
+
+- Sales revenue by state
+- Vehicle sales volume by state
+
+### Pricing Analysis
+
+- Selling price vs market value
+- Vehicle sales by price range
+- Price differences and pricing patterns
+
+### Vehicle Analysis
+
+- Mileage categories
+- Vehicle age
+- Vehicle condition
+- Transmission
+- Body type
+
+## 📊 Power BI Dashboard
 
 The Power BI dashboard provides an interactive view of vehicle sales performance.
 
-Dashboard Features
-KPI cards
-Year slicer
-Make slicer
-State slicer
-Top 10 vehicle brands by sales volume
-Sales revenue by state
-Vehicle sales volume by price range
-Mileage vs selling price analysis
-Trend analysis
+### Dashboard Features
 
-💡 Business Insights
+- KPI cards
+- Year slicer
+- Make slicer
+- State slicer
+- Top 10 vehicle brands by sales volume
+- Sales revenue by state
+- Vehicle sales volume by price range
+- Mileage vs selling price analysis
+- Trend analysis
+
+![Vehicle Sales Dashboard](screenshots/dashboard.png)
+
+## 💡 Business Insights
 
 The analysis helps identify:
 
-Vehicle brands with higher sales volume
-States generating higher sales revenue
-The relationship between mileage and selling price
-Price segments with higher sales volume
-Differences between market value and actual selling price
-Vehicle age and condition patterns
-Pricing trends across different vehicle categories
-🧹 Data Cleaning
+- Vehicle brands with higher sales volume
+- States generating higher sales revenue
+- The relationship between mileage and selling price
+- Price segments with higher sales volume
+- Differences between market value and actual selling price
+- Vehicle age and condition patterns
+- Pricing trends across different vehicle categories
+
+## 🧹 Data Cleaning
 
 The Python analysis includes:
 
-Handling missing values
-Removing duplicate records
-Validating numeric fields
-Converting date fields
-Creating vehicle age
-Creating mileage categories
-Creating price ranges
-Calculating price difference from market value
-🗄️ SQL Analysis
+- Handling missing values
+- Removing duplicate records
+- Validating numeric fields
+- Converting date fields
+- Creating vehicle age
+- Creating mileage categories
+- Creating price ranges
+- Calculating price difference from market value
+
+## 🗄️ SQL Analysis
 
 SQL was used to perform business-focused analysis including:
 
-Record counts
-Data quality checks
-Missing value analysis
-KPI calculations
-Top brands
-Top vehicle models
-State-level performance
-Body type analysis
-Transmission analysis
-Mileage analysis
-Vehicle age analysis
-Market value vs selling price
-Top sellers
-Vehicle condition analysis
-Price range analysis
-🐍 Python Analysis
+- Record counts
+- Data quality checks
+- Missing value analysis
+- KPI calculations
+- Top brands
+- Top vehicle models
+- State-level performance
+- Body type analysis
+- Transmission analysis
+- Mileage analysis
+- Vehicle age analysis
+- Market value vs selling price
+- Top sellers
+- Vehicle condition analysis
+- Price range analysis
+
+## 🐍 Python Analysis
 
 Python was used for:
 
-Data loading
-Data cleaning
-Data validation
-Exploratory data analysis
-Feature engineering
-Statistical summaries
-Brand analysis
-Regional analysis
-Pricing analysis
-Mileage analysis
-Business insight generation
-📊 Key KPIs
-KPI	Description
-Total Vehicles	Total number of vehicle records
-Total Sales	Total selling price revenue
-Average Selling Price	Average actual selling price
-Average Market Value	Average market/reference value
-Average Mileage	Average vehicle odometer reading
-🚀 Skills Demonstrated
-Data Cleaning
-Data Analysis
-SQL Querying
-Business Analysis
-Exploratory Data Analysis
-Feature Engineering
-KPI Development
-Data Visualization
-Power BI Dashboard Development
-Business Insight Generation
-Data Storytelling
-🎓 Project Outcome
+- Data loading
+- Data cleaning
+- Data validation
+- Exploratory data analysis
+- Feature engineering
+- Statistical summaries
+- Brand analysis
+- Regional analysis
+- Pricing analysis
+- Mileage analysis
+- Business insight generation
+
+## 📊 Key KPIs
+
+| KPI | Description |
+|---|---|
+| Total Vehicles | Total number of vehicle records |
+| Total Sales | Total selling price revenue |
+| Average Selling Price | Average actual selling price |
+| Average Market Value | Average market/reference value |
+| Average Mileage | Average vehicle odometer reading |
+
+## 🚀 Skills Demonstrated
+
+- Data Cleaning
+- Data Analysis
+- SQL Querying
+- Business Analysis
+- Exploratory Data Analysis
+- Feature Engineering
+- KPI Development
+- Data Visualization
+- Power BI Dashboard Development
+- Business Insight Generation
+- Data Storytelling
+
+## 🎓 Project Outcome
 
 This project demonstrates an end-to-end analytics workflow starting from raw vehicle sales data and progressing through data cleaning, SQL analysis, Python-based analysis, and interactive Power BI reporting.
 
-The project was developed to demonstrate practical skills relevant to Data Analyst and Business Analyst roles.
+The project demonstrates practical skills relevant to Data Analyst and Business Analyst roles.
 
 ## 👤 Author
 
